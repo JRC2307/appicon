@@ -42,12 +42,12 @@ Fixed 12-color palette; each project claims one. The taken-list lives in the
 | 4 | Teal | `#0F766E` | consulting |
 | 5 | Coffee brown | `#6F4E37` | larepisa |
 | 6 | Crimson | `#D7263D` | rawcam-pwa |
-| 7 | Forest | `#1B7A3D` | — |
+| 7 | Forest | `#1B7A3D` | financial (portfolio) |
 | 8 | Amber | `#D99000` | — |
 | 9 | Slate blue | `#3B5B8C` | — |
 | 10 | Magenta | `#B83280` | — |
 | 11 | Cyan | `#0E7490` | — |
-| 12 | Plum | `#6B21A8` | — |
+| 12 | Plum | `#6B21A8` | tradingbot (PolyBot dash) |
 
 ### 3. New-project hook
 
