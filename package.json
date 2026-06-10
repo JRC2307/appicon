@@ -1,0 +1,10 @@
+{
+  "name": "appicon",
+  "version": "1.0.0",
+  "description": "Render a square glyph SVG into the standard web-app icon set (apple-touch-icon, 192/512, favicon)",
+  "type": "module",
+  "bin": { "appicon": "bin/appicon.mjs" },
+  "dependencies": {
+    "sharp": "^0.34.0"
+  }
+}
