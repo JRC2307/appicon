@@ -94,6 +94,12 @@ Learned the hard way, encoded here so you don't have to:
 4. **PWA manifests don't help Safari here.** `manifest.json` icons matter for Android/
    install banners; the home-screen tile on iOS comes from `apple-touch-icon` alone.
 
+## Future
+
+Planned/considered improvements (contact-sheet preview at 60 px, fleet manifest +
+`appicon sync`, legibility lint, maskable safe-zone check): see
+[docs/ROADMAP.md](docs/ROADMAP.md).
+
 ## License
 
 MIT
