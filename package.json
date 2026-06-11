@@ -1,9 +1,25 @@
 {
   "name": "appicon",
-  "version": "1.0.0",
-  "description": "Render a square glyph SVG into the standard web-app icon set (apple-touch-icon, 192/512, favicon)",
+  "version": "1.1.0",
+  "description": "Render one glyph SVG into the full web-app icon set (apple-touch-icon, 192/512 PWA icons, favicon) — so every app you save from Safari to the iPhone home screen gets a real tile, not a screenshot",
   "type": "module",
   "bin": { "appicon": "bin/appicon.mjs" },
+  "license": "MIT",
+  "author": "JRC2307",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRC2307/appicon.git"
+  },
+  "keywords": [
+    "apple-touch-icon",
+    "favicon",
+    "pwa",
+    "icon",
+    "home-screen",
+    "svg",
+    "sharp"
+  ],
+  "engines": { "node": ">=18" },
   "dependencies": {
     "sharp": "^0.34.0"
   }
